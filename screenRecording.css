@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    padding:10rem;
+    background-color: black;
+    color:white;
+  }
+  
+  button {
+    display: inline-block;
+    margin: 1em 1em;
+    font-size: 2em;
+    cursor: pointer;
+  }
+  
+  video {
+    border: 1px solid lightgray;
+    width: 1%;
+    background-color: #eee;
+    display:none;
+  }
+
+  h4{
+    margin-top: 14rem;
+  }
+  
